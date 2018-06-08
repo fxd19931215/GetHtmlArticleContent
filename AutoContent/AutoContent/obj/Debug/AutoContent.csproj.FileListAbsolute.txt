@@ -1,0 +1,12 @@
+D:\Company\项目源码\AutoContent\AutoContent\bin\Debug\AutoContent.exe
+D:\Company\项目源码\AutoContent\AutoContent\bin\Debug\AutoContent.pdb
+D:\Company\项目源码\AutoContent\AutoContent\obj\Debug\AutoContent.ContentAuto.resources
+D:\Company\项目源码\AutoContent\AutoContent\obj\Debug\AutoContent.Properties.Resources.resources
+D:\Company\项目源码\AutoContent\AutoContent\obj\Debug\AutoContent.csproj.GenerateResource.cache
+D:\Company\项目源码\AutoContent\AutoContent\obj\Debug\AutoContent.csproj.CoreCompileInputs.cache
+D:\Company\项目源码\AutoContent\AutoContent\obj\Debug\AutoContent.exe
+D:\Company\项目源码\AutoContent\AutoContent\obj\Debug\AutoContent.pdb
+D:\Company\项目源码\AutoContent\AutoContent\bin\Debug\Common.dll
+D:\Company\项目源码\AutoContent\AutoContent\bin\Debug\NSoup.dll
+D:\Company\项目源码\AutoContent\AutoContent\obj\Debug\AutoContent.csproj.CopyComplete
+D:\Company\项目源码\AutoContent\AutoContent\obj\Debug\AutoContent.csprojAssemblyReference.cache
